@@ -1,0 +1,32 @@
+GABARITO
+
+01 E E E E C
+02 C E C E C
+03 C C E E E
+04 E C E E E
+05 C C C E E
+06 C E E E C
+07 E E C C E
+08 C E E E E
+09 C C C E C
+10 C E C E E
+11 C E E E C
+12 C E E C E
+13 C C E E C
+14 E E C C C
+15 C E E E C
+16 E E E E C
+17 E E C X C
+18 C C C E C
+19 E C C C E
+20 E E C C E
+21 C E E E C
+22 E E C C C
+23 E C C E C
+24 E E C E E
+25 E C C E E
+26 C E C E C
+27 E E C C E
+28 C E C E C
+29 C E E C E
+30 C E C E C
